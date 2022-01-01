@@ -1,0 +1,108 @@
+---
+title: "Curriculum Vitae"
+author: "Mehmet Agah Caylan"
+date: "31/12/2021"
+output: html_document
+---
+m.agahcaylan@gmail.com | +905414242914 | https://github.com/mehmetagahcaylan
+
+## Education
+\• **B.A. Economics, Middle East Technical University**, Ankara, Turkey (graduation, June 2022) 
+\ (*highest-ranking student of university entrance exam in Economics department in 2017*)
+
+• **TED Ankara Private Highschool** (*The Full Education Scholarship*)
+
+## Professional Experience
+
+
+
+##### **Research Assistant of Yüksel Görmez**, *Executive Director of Financial Innovation Department of Central Bank of Republic of Turkey*, April 2021 - ongoing
+
+  o Central Bank Electronic Payment technologies were theorized by using the latest
+news from USA and China.\
+  o The theoretical assumptions were compiled and used to form a presentation on the
+upcomings of the Digital Yuan.\
+  o China’s Electrical Vehicle Market’s growth was observed through EV products of Nio
+and SAIC-GM cooperated electric car Wuling Hongguang Mini EV.\
+  o Investigative research and presentation on the Chinese electrical vehicle revolution.
+
+##### **Sales Internship, Turna Technology**, March 2021-June 2021 (one day a week - unofficial assistance)
+o Attending online meetings with Qatari clients.\
+o Assisting transportation to and communication with municipalities, attending the
+negotiation processes between the firm and the potential customers.\
+o Contacting the Commercial Counsellors of Turkish Embassies through mail to
+increase international sales and further the firm’s insights about a potential foreign
+market.
+
+##### **Software and Sales Internship, Turna Technology**, June 2019 - August 2019
+o Learning Javascript, Excel and assisting the software development team with minor
+objectives mostly involving Excel.\
+o Communicating with Government Supplies Office to further the firm’s aim to have
+their product enlisted on the GSO catalog which certifies that firm’s (software)
+product is trustworthy and well-priced.\
+o Communicating with Government Supplies Office to further the firm’s aim to have
+their product enlisted on the GSO catalog.\
+o Organizing the GSO documents in a precise and timely manner.\
+o Researching the patenting processes of the software product, attending the
+patenting seminars that are given to entrepreneurs and taking notes.\
+o Visiting municipalities to assist in negotiation processes, analyzing the products and
+business strategies of similar firms.
+
+## Languages
+• Turkish (Native) 
+\
+• English (Advanced) 
+\
+• Chinese (Average, HSK 3-certification of proof will be received on 22nd of March 2022)
+\
+• German (A2.2)
+
+## Computer
+\
+• Experience in R, Python, and Javascript
+\
+• Microsoft Word, Excel, and Powerpoint
+
+### Datacamp Certifications
+(Statements of Accomplishments are available in my Linkedin profile)
+\
+• Introduction to R
+\
+• Intermediate R
+\
+• Data Manipulation with data.table in R
+\
+• Joining Data with data.table in R
+\
+• Introduction to the Tidyverse
+\
+• Data Manipulation with dplyr
+\
+• Introduction to Data Visualization with ggplot2
+\
+• Joining Data with dplyr
+\
+
+## Activities and Volunteerism
+• Drumming, 2011 - ongoing
+\
+• Volunteer mathematics teacher in the Middle East Visually Impaired Society, October 2020 - January 2021
+\
+• METU Rowing Team, 2018
+\
+• METU Highschool Water Polo Team, 2016
+\
+• Wing Chun, 2014 - 2015
+\
+• Basketball player in Tofaş, 2008 - 2013
+\
+• Comenius Project Guest Student in Iasi, Romania, 2012 (hosted as a guest student in a
+nearby village)
+\
+• Comenius Project Host Student in Ankara, Turkey, 2012 (accommodated a Polish exchange
+student for a week)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
